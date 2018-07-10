@@ -1,0 +1,62 @@
+/* CSS Halaman Ebook by. Link Z START */
+.linkz-box-ebook-sinopsis-gbr{border: 1px solid #e9e9e9;font-family: arial;font-size: 12px;line-height: 20px; padding: 5px; text-align:justify; margin-bottom: 15px;}
+.linkz-box-ebook-sinopsis-gbr img{float: left;width: 150px;height: 210px;padding: 1px;border: 1px solid #DDD;margin:0 8px 4px 0;}
+.linkz-box-ebook-sinopsis-gbr h3{border: 0px; font-size: 13px;}
+.linkz-box-ebook-sinopsis-gbr:after{
+clear:both;
+content:' ';
+display:block;
+}
+.linkz-box-ebook-informasi{clear: both; border: 1px solid #e9e9e9; margin-top: 5px; margin-bottom: 5px;}
+.linkz-box-ebook-informasi a{text-decoration: none;font-family: 'Open Sans',sans-serif;font-size: 13px}
+.linkz-box-ebook-informasi{padding-bottom:10px;font-size: 14px}
+.linkz-box-ebook-informasi>span{font-family: 'Open Sans',sans-serif;font-size: 13px;display:block;border-bottom: 1px solid #eeeeee;padding: 1px 5px}
+.linkz-box-ebook-informasi>span>b{display:inline-block;width:90px}
+.linkz-box-ebook-informasi>span:nth-child(odd){background: #f9f9f9}
+
+.lz-header {
+background: #0d66a9;
+margin: 0 0 3px;
+padding: 6px;
+color: #fafafa;
+font-size: 0.95em;
+}
+
+.linkz-box-ebook-info-up{border: 1px solid #e9e9e9;padding: 0px; height: 150px; margin-bottom: 5px;}
+.linkz-box-ebook-info-up-scrol{
+width:auto;
+padding:10px;
+overflow:scroll;
+overflow:auto;
+height: 80px;
+font-size: 13px;
+/*script tambahan khusus untuk IE */
+scrollbar-face-color: #CE7E00;
+scrollbar-shadow-color: #FFFFFF;
+scrollbar-highlight-color: #6F4709;
+scrollbar-3dlight-color: #11111;
+scrollbar-darkshadow-color: #6F4709;
+scrollbar-track-color: #FFE8C1;
+scrollbar-arrow-color: #6F4709;
+}
+.linkz-box-ebook-navigasi{border: 1px solid #e9e9e9;padding: 5px;margin-bottom: 5px;}
+.linkz-box-ebook-daftar{border: 1px solid #e9e9e9;padding: 5px;margin-bottom: 5px;}
+.linkz-box-ebook-daftar-button{display:inline-block;width:90px;padding-bottom:10px}
+.linkz-box-ebook-bacapdf {
+margin-bottom: 5px;
+border: 1px solid #e9e9e9;
+position: relative;
+height: 100%;
+overflow: hidden;
+padding-bottom: 120%;
+}
+.linkz-box-ebook-bacapdf object {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+padding: 0;
+margin: 0;
+}
+/* CSS Halaman Ebook by. Link Z END */
